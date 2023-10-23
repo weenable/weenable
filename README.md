@@ -1,9 +1,7 @@
 ### Hi there 👋
+[![weenable](https://github-profile-trophy.vercel.app/?username=weenable)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--
-**weenable/weenable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![weenable](https://github-readme-stats.vercel.app/api?username=weenable)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
